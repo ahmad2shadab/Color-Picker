@@ -1,0 +1,22 @@
+{
+  "name": "colorpicker",
+  "version": "1.0.0",
+  "description": "Color Picker Extension",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad2shadab/Color-Picker.git"
+  },
+  "author": "Shadab Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad2shadab/Color-Picker/issues"
+  },
+  "homepage": "https://github.com/ahmad2shadab/Color-Picker#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
