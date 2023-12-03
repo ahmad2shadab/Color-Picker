@@ -16,4 +16,4 @@ In this color picker, users can easily pick any color on the screen, see the pic
     <tr/>
   <tabel/>
     
-[Use me]( https://ahmad2shadab.github.io/Color-Picker/)
+[Use extension]( https://ahmad2shadab.github.io/Color-Picker/)
