@@ -1,6 +1,6 @@
 # Color-Picker
 
-Welcome to the Color-Picker project! This intuitive tool allows users to effortlessly pick and interact with colors on their screen. Whether you're a designer looking for the perfect shade, a developer needing exact color codes, or just someone who loves playing with colors, this color picker is designed to enhance your color selection process.
+This intuitive tool allows users to effortlessly pick and interact with colors on their screen. Whether you're a designer looking for the perfect shade, a developer needing exact color codes, or just someone who loves playing with colors, this color picker is designed to enhance your color selection process.
 
 ## Features
 
