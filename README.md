@@ -45,4 +45,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Thank you for exploring the Color-Picker project! We hope it brings a splash of color to your projects and workflow.
-<!-- New version here! -->
